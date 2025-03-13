@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Ignore all CSV files
+*.csv
+
+# But track the specific CSV file
+!C:\Users\ngwen\OneDrive - Eduvos\Documents\EduvosGraduateTechTrends\graduate_survey.csv
